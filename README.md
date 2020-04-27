@@ -1,7 +1,10 @@
 # Projekt_Tablicni_kalkulator
 Projekt iz predmeta "Programiranje II"
+Godine 2019.
 
+------------
 Opis Zadatka
+------------
 
 Malo koji računarac voli unositi podatke u tablice, ali izraditi svoj osobni tablični kalkulator poseban je izazov.
 
