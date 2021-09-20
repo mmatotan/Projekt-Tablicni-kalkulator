@@ -2,17 +2,13 @@
 Projekt iz predmeta "Programiranje II"
 Godine 2019.
 
-------------
-Opis Zadatka
-------------
+## Opis Zadatka
 
 Malo koji računarac voli unositi podatke u tablice, ali izraditi svoj osobni tablični kalkulator poseban je izazov.
 
 U ovom zadatku potrebno je izraditi samu jezgru tabličnog kalkulatora odnosno program koji će od niza jednadžbi, za svaku ćeliju po jedna, izračunati i ispisati prikazane vrijednosti u svim ćelijama.
 
--------------
-Ulazni podaci
--------------
+## Ulazni podaci
 
 U prvom retku nalazi se cijeli broj t (1≤t≤100) koji označava broj listova (spreadsheet) dokumenta tabličnog kalkulatora. Za svaki list zadani su redom sljedeći podaci, u prvom retku je zadan broj n (1≤n≤200) odnosno broj jednadžbi u listu. U svakom od sljedećih n redaka zadana je po jedna jednadžba s najviše 200 znakova.
 
@@ -32,8 +28,6 @@ Operator / je operator cijelobrojnog dijeljenja, odnosno rezultat se uvijek zaok
 
 Prije opisanih ulaznih podataka za svaki pojedini list nalazi se jedan prazni redak.
 
---------------
-Izlazni podaci
---------------
+## Izlazni podaci
 
 Za svaki od t listova dokumenta potrebno je ispisati n linija oblika ĆELIJA = VRIJEDNOST pri čemu su ćelije ispisane u leksikografskom odnosno abecednom poretku njihovih oznaka. Sve vrijednosti su veće ili jednake nula.
